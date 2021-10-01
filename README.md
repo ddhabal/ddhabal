@@ -1,7 +1,7 @@
 ### About me 👋
 
 
-- 🔭 I’m a postdoctoral researcher at the University of Utah
+- 🔭 I’m a postdoctoral researcher at the University of Utah, Salt Lake City, Utah, USA
 - 🌱 I’m currently working on understanding the molecular mechanism of nanoporous material formation
 - 📫 How to reach me: debdas.dhabal@utah.edu
 <!---
